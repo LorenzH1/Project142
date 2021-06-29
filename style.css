@@ -1,0 +1,39 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.big_image{
+    width: 100%;
+}
+#start, #status, #restart{
+    font-size: 25px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: purple;
+    line-height: 3;
+    text-align: center;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction_image{
+    display:inline-block;
+    width: 45%;
+}
+canvas{
+    border: 2px solid navy;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px navy;
+}
